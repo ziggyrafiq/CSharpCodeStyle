@@ -1,0 +1,15 @@
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\bin\Debug\net8.0\ZiggyRafiq.CodeStyles.exe
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\bin\Debug\net8.0\ZiggyRafiq.CodeStyles.deps.json
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\bin\Debug\net8.0\ZiggyRafiq.CodeStyles.runtimeconfig.json
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\bin\Debug\net8.0\ZiggyRafiq.CodeStyles.dll
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\bin\Debug\net8.0\ZiggyRafiq.CodeStyles.pdb
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.AssemblyInfoInputs.cache
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.AssemblyInfo.cs
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.csproj.CoreCompileInputs.cache
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.sourcelink.json
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.dll
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\refint\ZiggyRafiq.CodeStyles.dll
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.pdb
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ZiggyRafiq.CodeStyles.genruntimeconfig.cache
+E:\GitHub\Articles-Posts\C#\CSharpCodeStyle\ZiggyRafiq.CodeStyles\ZiggyRafiq.CodeStyles\obj\Debug\net8.0\ref\ZiggyRafiq.CodeStyles.dll
